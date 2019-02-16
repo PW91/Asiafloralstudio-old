@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	
+	galleryStyle="MODERN"
+	title=""
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="2"
+	thumbPosition="BOTTOM"
+	thumbColumns="12"
+	thumbRows="1"
+	showOpenButton="FALSE"
+	showFullscreenButton="TRUE"	
+	maxImageWidth="720"
+	maxImageHeight="720"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="AUTO"
+	languageList=""		
+	imagePath="images/"
+	thumbPath="images/"
+	
+>
+
+<image imageURL="images/e1.jpg" thumbURL="images/e1.jpg" linkURL="" linkTarget="" >
+<caption>Premiera Sztuki Vaclava Havla "Odejsc" w Teatrze  Ateneum</caption>	
+</image>
+<image imageURL="images/e2.jpg" thumbURL="images/e2.jpg" linkURL="" linkTarget="" >
+<caption>Premiera Sztuki Vaclava Havla "Odejsc" w Teatrze  Ateneum</caption>	
+</image>
+<image imageURL="images/e3.jpg" thumbURL="images/e3.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e4.jpg" thumbURL="images/e4.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e5.jpg" thumbURL="images/e5.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e6.jpg" thumbURL="images/e6.jpg" linkURL="" linkTarget="" >
+		
+</image>
+<image imageURL="images/e7.jpg" thumbURL="images/e7.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e8.jpg" thumbURL="images/e8.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e9.jpg" thumbURL="images/e9.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e10.jpg" thumbURL="images/e10.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e11.jpg" thumbURL="images/e11.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e12.jpg" thumbURL="images/e12.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e13.jpg" thumbURL="images/e13.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e14.jpg" thumbURL="images/e14.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e15.jpg" thumbURL="images/e15.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e16.jpg" thumbURL="images/e16.jpg" linkURL="" linkTarget="" >
+		
+</image>
+<image imageURL="images/e17.jpg" thumbURL="images/e17.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e18.jpg" thumbURL="images/e18.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e19.jpg" thumbURL="images/e19.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e20.jpg" thumbURL="images/e20.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e21.jpg" thumbURL="images/e21.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e22.jpg" thumbURL="images/e22.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e23.jpg" thumbURL="images/e23.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e24.jpg" thumbURL="images/e24.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e25.jpg" thumbURL="images/e25.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e26.jpg" thumbURL="images/e26.jpg" linkURL="" linkTarget="" >
+		
+</image>
+<image imageURL="images/e27.jpg" thumbURL="images/e27.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e28.jpg" thumbURL="images/e28.jpg" linkURL="" linkTarget="" >
+	
+</image>
+<image imageURL="images/e29.jpg" thumbURL="images/e29.jpg" linkURL="" linkTarget="" >
+	
+</image>
+
+</simpleviewergallery>
